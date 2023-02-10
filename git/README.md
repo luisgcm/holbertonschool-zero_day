@@ -1,1 +1,4 @@
+DOCUMENTO PRINCIPAL
 
+1-git
+2- shell
